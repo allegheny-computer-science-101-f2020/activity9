@@ -82,7 +82,7 @@ set CMD_LINE_ARGS=%*
 set CLASSPATH=%APP_HOME%\lib\activityseven.jar
 
 @rem Execute activityseven
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %ACTIVITYSEVEN_OPTS%  -classpath "%CLASSPATH%" activityeight.AlgorithmAnalysis %CMD_LINE_ARGS%
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %ACTIVITYSEVEN_OPTS%  -classpath "%CLASSPATH%" activitynine.AlgorithmAnalysis %CMD_LINE_ARGS%
 
 :end
 @rem End local scope for the variables with windows NT shell
