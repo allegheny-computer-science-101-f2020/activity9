@@ -1,9 +1,11 @@
-# CMPSC 101 Participation: Activity 8
+# CMPSC 101 Participation: Activity 9
 
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the class participation  activity eight for Computer Science 101.
+repository contains the class participation  activity nine for Computer Science 101.
+
+For this activity, you need to run experiments and complete a report as a team.
 
 * Please note that GatorGrader and GitHub Actions CI are not used for class activities to allow for more free-flowing exploration.*
 
